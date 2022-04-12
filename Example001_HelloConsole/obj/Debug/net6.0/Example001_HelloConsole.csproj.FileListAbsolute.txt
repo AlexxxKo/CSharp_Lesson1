@@ -1,0 +1,15 @@
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.exe
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.deps.json
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.runtimeconfig.json
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.dll
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\bin\Debug\net6.0\Example001_HelloConsole.pdb
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.AssemblyReference.cache
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.AssemblyInfo.cs
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.dll
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\obj\Debug\net6.0\refint\Example001_HelloConsole.dll
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.pdb
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\obj\Debug\net6.0\Example001_HelloConsole.genruntimeconfig.cache
+H:\Learn\GeekBrains\006 Знакомство с языками программирования (лекции)\CSharp Lesson1\Example001_HelloConsole\obj\Debug\net6.0\ref\Example001_HelloConsole.dll
